@@ -99,21 +99,21 @@ export const browseData = [
     },
     {
         id: 4,
-        title: "Interstellar",
-        genre: "Sci-Fi",
-        image: "https://m.media-amazon.com/images/M/MV5BMTMxNTMwODM0NF5BMl5BanBnXkFtZTcwODAyMTk2Mw@@._V1_.jpg"
+        title: "I Am a Killer",
+        genre: "Crime",
+        image: "https://images.justwatch.com/poster/300544267/s166/i-am-a-killer.webp"
     },
     {
         id: 5,
-        title: "Parasite",
-        genre: "Thriller",
-        image: "https://m.media-amazon.com/images/M/MV5BMTMxNTMwODM0NF5BMl5BanBnXkFtZTcwODAyMTk2Mw@@._V1_.jpg"
+        title: "Oppenheimer",
+        genre: "Drama",
+        image: "https://images.justwatch.com/poster/305252655/s166/oppenheimer.webp"
     },
     {
         id: 6,
-        title: "The Matrix",
+        title: "Joker 2",
         genre: "Drama",
-        image: "https://m.media-amazon.com/images/M/MV5BMTMxNTMwODM0NF5BMl5BanBnXkFtZTcwODAyMTk2Mw@@._V1_.jpg"
+        image: "https://images.justwatch.com/poster/319891767/s166/joker-2.webp"
     },
     
 ];
@@ -121,7 +121,7 @@ export const documentariesData = [
     {
         id: 1,
         title: "Downfall: The case against boeing",
-        genre: "Documentary/Melodrama",
+        genre: "Documentary",
         image: "https://images.justwatch.com/poster/263018221/s166/downfall-the-case-against-boeing.webp"
     },
     {
@@ -132,27 +132,27 @@ export const documentariesData = [
     },
     {
         id: 3,
-        title: "The Mind Explained",
-        genre: "Action",
-        image: "https://m.media-amazon.com/images/M/MV5BMTMxNTMwODM0NF5BMl5BanBnXkFtZTcwODAyMTk2Mw@@._V1_.jpg"
+        title: "Girl In The Picture",
+        genre: "Crime",
+        image: "https://images.justwatch.com/poster/293941231/s166/girl-in-the-picture.webp"
     },
     {
         id: 4,
-        title: "Interstellar",
-        genre: "Sci-Fi",
-        image: "https://m.media-amazon.com/images/M/MV5BMTMxNTMwODM0NF5BMl5BanBnXkFtZTcwODAyMTk2Mw@@._V1_.jpg"
+        title: "How I Caught My Killer",
+        genre: "Crime",
+        image: "https://images.justwatch.com/poster/302385790/s166/how-i-caught-my-killer.webp"
     },
     {
         id: 5,
-        title: "Parasite",
-        genre: "Thriller",
-        image: "https://m.media-amazon.com/images/M/MV5BMTMxNTMwODM0NF5BMl5BanBnXkFtZTcwODAyMTk2Mw@@._V1_.jpg"
+        title: "I Am a Killer",
+        genre: "Crime",
+        image: "https://images.justwatch.com/poster/300544267/s166/i-am-a-killer.webp"
     },
     {
         id: 6,
-        title: "The Matrix",
-        genre: "Drama",
-        image: "https://m.media-amazon.com/images/M/MV5BMTMxNTMwODM0NF5BMl5BanBnXkFtZTcwODAyMTk2Mw@@._V1_.jpg"
-    },
+        title: "O.J.: Made in America",
+        genre: "Documentary",
+        image: "https://images.justwatch.com/poster/242317088/s166/o-j-made-in-america.webp"
+    }
     
 ];
